@@ -63,6 +63,6 @@ a320neo-vs-ceo-co2/
 
 ## Auteur
 
-**David Dinh** — Étudiant L3 MIAGE, Université de Toulouse
+**David Dinh** — Étudiant L2 MIAGE, Université de Toulouse
 - GitHub : [github.com/davD31](https://github.com/davD31)
 - Email : daviddinh31@gmail.com
