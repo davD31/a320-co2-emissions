@@ -1,4 +1,4 @@
-# A320neo vs A320ceo — L'impact réel de la nouvelle génération sur les émissions CO₂
+# A320neo vs A320ceo L'impact réel de la nouvelle génération sur les émissions CO₂
 
 ## Problématique
 
